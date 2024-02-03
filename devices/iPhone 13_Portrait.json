@@ -1,0 +1,16 @@
+{
+  "deviceScaleFactor" : 3,
+  "hasTouch" : true,
+  "dimensions" : {
+    "height" : 844,
+    "width" : 390
+  },
+  "safeAreaInsets" : {
+    "bottom" : 34,
+    "trailing" : 0,
+    "top" : 47,
+    "leading" : 0
+  },
+  "userAgent" : "Mozilla\/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/15E148",
+  "isMobile" : true
+}

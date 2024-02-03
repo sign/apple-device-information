@@ -15,7 +15,7 @@ xcodebuild \
   -derivedDataPath './DeviceInformation/Build'
 
 # Get a list of available simulators
-available_simulators=$(xcrun simctl list devices available | grep -E -o '([A-Z]|[a-z]|[0-9]|-)+ \(([0-9A-F-]+)\)' | awk -F '[()]' '{print $2}')
+available_simulators=$(xcrun simctl list devices available | grep 'iPad' | grep -o '([0-9A-F\-]\+)' | tr -d '()')
 
 # Iterate through each simulator
 for udid in $available_simulators; do

@@ -1,16 +1,16 @@
 {
-  "isMobile" : true,
-  "dimensions" : {
-    "height" : 852,
-    "width" : 393
-  },
   "hasTouch" : true,
-  "safeAreaInsets" : {
-    "bottom" : 34,
-    "leading" : 0,
-    "trailing" : 0,
-    "top" : 59
+  "deviceScaleFactor" : 3,
+  "dimensions" : {
+    "width" : 393,
+    "height" : 852
   },
   "userAgent" : "Mozilla\/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/15E148",
-  "deviceScaleFactor" : 3
+  "isMobile" : true,
+  "safeAreaInsets" : {
+    "top" : 59,
+    "bottom" : 34,
+    "trailing" : 0,
+    "leading" : 0
+  }
 }

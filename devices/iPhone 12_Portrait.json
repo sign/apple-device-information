@@ -1,0 +1,16 @@
+{
+  "safeAreaInsets" : {
+    "trailing" : 0,
+    "top" : 47,
+    "leading" : 0,
+    "bottom" : 34
+  },
+  "userAgent" : "Mozilla\/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/15E148",
+  "isMobile" : true,
+  "deviceScaleFactor" : 3,
+  "hasTouch" : true,
+  "dimensions" : {
+    "height" : 844,
+    "width" : 390
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "userAgent" : "Mozilla\/5.0 (iPad; CPU OS 15_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/15E148",
+  "deviceScaleFactor" : 2,
+  "safeAreaInsets" : {
+    "trailing" : 0,
+    "leading" : 0,
+    "bottom" : 20,
+    "top" : 24
+  },
+  "isMobile" : true,
+  "dimensions" : {
+    "width" : 834,
+    "height" : 1194
+  },
+  "hasTouch" : true
+}
